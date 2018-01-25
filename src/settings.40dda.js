@@ -38,22 +38,6 @@ window._CCSettings = {
                 "res/rextures/block3.png",
                 0
             ],
-            "b8XEOGgcxGkZYhUGLR+4j+": [
-                "res/rextures/dumganhar.png",
-                0
-            ],
-            "ccSpJyrqtKUYhv158l/CNx": [
-                "res/rextures/jare.png",
-                0
-            ],
-            "38F2baov5NiZx8qwr0NgFS": [
-                "res/rextures/knox.png",
-                0
-            ],
-            "1bPFrhOBdLA48GmAxYakM2": [
-                "res/rextures/panda.png",
-                0
-            ],
             "34MItlDgdESZRgIgt4UQ3T": [
                 "res/rextures/particle_texture.plist",
                 1
@@ -76,14 +60,6 @@ window._CCSettings = {
             ],
             "36FLCAn8FE2qKKCmCZ9eAt": [
                 "res/rextures/streak.png",
-                0
-            ],
-            "27IdX0Z4REL7aFMF1moKoX": [
-                "res/rextures/wx.jpg",
-                0
-            ],
-            "48DFrn5wdIz6fVA+//wDBD": [
-                "res/rextures/zhe.png",
                 0
             ]
         },
@@ -131,24 +107,19 @@ window._CCSettings = {
         }
     ],
     packedAssets: {
-        "016316718": [
+        "0ad5936c3": [
             "01qOXY/z1IX5aQSx/no4k9",
-            "02JzqT2NBEGbATI7kC03Kq",
             "03AfOqUk9G5qieZfwizhst",
             "05Rs+tSFNPcrR782MrR/8c",
             "09bOm7AWJCVZY2z/X+ghkw",
             "10EMuetPtKQYXi6LjKkLSx",
             "29FYIk+N1GYaeWH/q1NxQO",
-            "2cqZGCwMNEL4ZiRbJUoK6K",
             0,
-            "50VkqHc1VCeb00jE5olIow",
-            "51P5r5Ho5P6aMsmZg3b08Q",
             "5bMKYvpzFNoY1AKoE28IAk",
             "72sLmtkENNVbR5X0VRkTBy",
             "7aVMGqqUNHBo/5eNwmx7Zs",
             1,
             "85lqfz5IVBuoQPn+G8+Lle",
-            "94xpfoBB1FfIiSkN2r9pdf",
             2,
             "a9JaD824FOB7T3428fTJpl",
             "bbaMJGeStK2LQNW9PhTCrX",
@@ -157,9 +128,8 @@ window._CCSettings = {
             "e6QpjwZXRLm4Q0rJ2ND1pq",
             "e97GVMl6JHh5Ml5qEDdSGa"
         ],
-        "042ee5c41": [
+        "0f2ae5b5e": [
             "3e1fSrGj5K2IoYTUNa12HP",
-            "4cXDRVgXNCIpYbGnWoRUz6",
             1,
             "7ciFVBU35K2KuPrgwSWQT6",
             "9bvaMerUlDyary99mJa6xp",
@@ -176,8 +146,8 @@ window._CCSettings = {
         "f0UsO+Iv5NV5dAy545HZ6u"
     ],
     "md5AssetsMap": {
-        "01/016316718.json": "d5248",
-        "04/042ee5c41.json": "7761b",
+        "0a/0ad5936c3.json": "11aaf",
+        "0f/0f2ae5b5e.json": "097f5",
         "assets/res/audios/flattening.mp3": "5348f",
         "assets/res/audios/jump.mp3": "480ba",
         "assets/res/audios/whatarewords.mp3": "9eb41",
@@ -185,18 +155,12 @@ window._CCSettings = {
         "assets/res/rextures/block1.png": "1a255",
         "assets/res/rextures/block2.png": "9d69c",
         "assets/res/rextures/block3.png": "71fee",
-        "assets/res/rextures/dumganhar.png": "fc2b2",
-        "assets/res/rextures/jare.png": "bfd77",
-        "assets/res/rextures/knox.png": "10992",
-        "assets/res/rextures/panda.png": "298d5",
         "assets/res/rextures/particle_texture.plist": "7721b",
         "assets/res/rextures/particle_texture.png": "5eed4",
         "assets/res/rextures/piece.png": "d568e",
         "assets/res/rextures/restart_btn.png": "073e9",
         "assets/res/rextures/start_btn.png": "6838c",
         "assets/res/rextures/streak.png": "34961",
-        "assets/res/rextures/wx.jpg": "f2fe8",
-        "assets/res/rextures/zhe.png": "96155",
         "internal/image/default_btn_disabled.png": "286c6",
         "internal/image/default_btn_pressed.png": "bedf4",
         "internal/image/default_panel.png": "cdbc9",
