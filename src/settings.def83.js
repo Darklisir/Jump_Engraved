@@ -107,7 +107,7 @@ window._CCSettings = {
         }
     ],
     packedAssets: {
-        "0ad5936c3": [
+        "0928a3481": [
             "01qOXY/z1IX5aQSx/no4k9",
             "03AfOqUk9G5qieZfwizhst",
             "05Rs+tSFNPcrR782MrR/8c",
@@ -122,6 +122,7 @@ window._CCSettings = {
             "85lqfz5IVBuoQPn+G8+Lle",
             2,
             "a9JaD824FOB7T3428fTJpl",
+            "ad7+2wcb9ITpklMQPbUg2K",
             "bbaMJGeStK2LQNW9PhTCrX",
             "d437hot+xFaJgXpeo84fbr",
             "d54/fIOGpHCYhsNmcoOMwP",
@@ -146,7 +147,7 @@ window._CCSettings = {
         "f0UsO+Iv5NV5dAy545HZ6u"
     ],
     "md5AssetsMap": {
-        "0a/0ad5936c3.json": "af678",
+        "09/0928a3481.json": "8f213",
         "0f/0f2ae5b5e.json": "097f5",
         "assets/res/audios/flattening.mp3": "5348f",
         "assets/res/audios/jump.mp3": "480ba",
