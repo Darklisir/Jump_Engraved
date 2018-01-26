@@ -146,7 +146,7 @@ window._CCSettings = {
         "f0UsO+Iv5NV5dAy545HZ6u"
     ],
     "md5AssetsMap": {
-        "0a/0ad5936c3.json": "f8148",
+        "0a/0ad5936c3.json": "af678",
         "0f/0f2ae5b5e.json": "097f5",
         "assets/res/audios/flattening.mp3": "5348f",
         "assets/res/audios/jump.mp3": "480ba",
